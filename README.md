@@ -31,15 +31,6 @@
 
 ---
 
-### Data & Formats
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Parquet](https://img.shields.io/badge/Parquet-0E4C92?style=for-the-badge)
-![CSV](https://img.shields.io/badge/CSV-217346?style=for-the-badge)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge)
-
----
-
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge)
